@@ -45,7 +45,7 @@ https://github.com/xiaotongoreo/baguijijiaodaka/releases/tag/mumu_android12
 
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/2024-01-03233413.png)
 
-点第一个
+点击同时在手机和平板上使用
 
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/2024-01-03%20233444.png)
 
