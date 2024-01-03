@@ -1,7 +1,7 @@
-# 微信小程序-八桂技教远程改定位打卡
-
 # 如何在八桂技教改定位打卡
 
+文件下载
+https://github.com/xiaotongoreo/baguijijiaodaka/releases/tag/mumu_android12
 
 下载模拟器
 
@@ -79,10 +79,7 @@
 台式机必须安装虚拟摄像头[有摄像头和笔记本可以忽略]
 下载安装iriun Webcam 手机上也安装并打开 就能使用了[局域网下 | 在网吧的话好像得用数据线]
 官网：https://iriun.com/
-或者下载我提供的
-https://github.com/xiaotongoreo/baguijijiaodaka/releases/download/mumu_android12/Iriun.Webcam_android_2.8.2.apk
-https://github.com/xiaotongoreo/baguijijiaodaka/releases/download/mumu_android12/MuMuInstaller_3.1.5.0_nochannel-mumu12_zh-Hans_1687258372.exe
-
+或者下载我提供的在Release里面
 
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/t/111-2.png)
 
