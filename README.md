@@ -75,7 +75,7 @@ https://github.com/xiaotongoreo/baguijijiaodaka/releases/tag/mumu_android12
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/t/111-0.png)
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/t/111-1.png)
 
-电脑摄像头
+点击摄像头
 台式机必须安装虚拟摄像头[有摄像头和笔记本可以忽略]
 下载安装iriun Webcam 手机上也安装并打开 就能使用了[局域网下 | 在网吧的话好像得用数据线]
 官网：https://iriun.com/
