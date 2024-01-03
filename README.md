@@ -41,7 +41,7 @@ https://github.com/xiaotongoreo/baguijijiaodaka/releases/tag/mumu_android12
 
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/2024-01-03233255.png)
 
-登入微信
+登录微信
 
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/2024-01-03233413.png)
 
@@ -57,7 +57,7 @@ https://github.com/xiaotongoreo/baguijijiaodaka/releases/tag/mumu_android12
 
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/t/1open.png)
 
-登入八桂技教
+登录八桂技教
 
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/t/2login.png)
 
@@ -70,7 +70,7 @@ https://github.com/xiaotongoreo/baguijijiaodaka/releases/tag/mumu_android12
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/t/4.png)
 
 实时截屏
-点击后会有一个篮筐 把篮筐拖到你的照片查看器那里 然后打开你的照片
+实时截屏 点击后会有一个篮筐 打开你的照片 把篮筐拖到你的照片那里
 
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/t/111-0.png)
 ![image](https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/t/111-1.png)
