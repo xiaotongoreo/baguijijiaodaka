@@ -1,105 +1,100 @@
-# 如何在八桂技教改定位打卡
+# 八桂技教で位置を変更してカードを打つ方法
 
 文件下载
 https://github.com/QinYuankidney/baguijijiaodaka/releases/tag/mumu_android12
 
-下载模拟器
+携帯電話シミュレータのダウンロード
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/2024-01-03%20223529.png)
 
-打开
+ファイルを開く
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/2024-01-03%20223658.png)
 
-安装模拟器
-[显示覆盖安装是因为我已经安装过了]
+携帯電話シミュレータのインストール
+[オーバーライドインストールを表示するのは、インストールしたからです]
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/2024-01-03%20223758.png)
 
-安装完成后开始菜单会显示模式器和多开器
-打开多开器
+インストールが完了するとスタートメニューに携帯電話シミュレータと携帯電話マルチプレクサが表示されます
+携帯電話のマルチプレクサを開く
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/2024-01-03%20223917.png)
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/2024-01-03%20225952.png)
 
-点击导入并新建
+クリックしてデータファイルをインポートして新規作成
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/2024-01-03%20230036.png)
 
-选择你的数据文件的地方
+あなたのデータファイルが存在する場所を選択
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/2024-01-03232125.png)
 
-导入完成 点击启动
+データファイルのインポート完了クリック起動
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/2024-01-03232232.png)
 
-打开微信
+WeChatを開く
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/2024-01-03233255.png)
 
-登录微信
+WeChatへのログイン
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/2024-01-03233413.png)
 
-点击同时在手机和平板上使用
+携帯電話とタブレットで同時に使用するにはクリックしてください
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/2024-01-03%20233444.png)
 
-扫码 完成后会自动到界面
+QRコードのスキャンが完了すると自動的にインタフェースにログインします
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/2024-01-03233526.png)
 
-打开八桂技教
+八桂技教をひらく
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/1open.png)
 
-登录八桂技教
+八桂の技教に入る
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/2login.png)
 
-点击开始考勤
+クリックして勤務開始
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/3start.png)
 
-实时截屏和摄像头
+画面のリアルタイム切り取りとカメラの切り取り
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/4.png)
 
-实时截屏
-实时截屏 点击后会有一个篮筐 打开你的照片 把篮筐拖到你的照片那里
+リアルタイム傍受画面
+ライブスクリーンショットをクリックすると、写真を開いて写真を写真のところにドラッグするバスケットカラーのかごがあります
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/111-0.png)
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/111-1.png)
 
-点击摄像头
-台式机必须安装虚拟摄像头[有摄像头和笔记本可以忽略]
-下载安装iriun Webcam 手机上也安装并打开 就能使用了[局域网下 | 在网吧的话好像得用数据线]
-官网：https://iriun.com/
-或者下载我提供的在Release里面
+キャプチャカメラ
+デスクトップPCには仮想カメラが必要[カメラとノートパソコンがあれば無視できる]ダウンロードインストールiriun Webcam Android携帯電話にもインストールして開くと使用できる
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/111-2.png)
 
-位置不对
+位置情報が間違っている
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/locat-1.png)
 
-点击∧会有虚拟定位这个按钮然后点进去
-随便找个位置
-并点击设为虚拟定位
+Λをクリックすると仮想位置がありますこのボタンをクリックして中に入って勝手に位置を探してクリックして仮想位置情報に設定します
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/locat-2.png)
 
-返回主界面点击开始考勤
+メイン画面に戻り勤務開始をクリック
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/back.png)
 
-不生效的都返回试几次直到左下角的位置和你设为虚拟定位的位置相同
+有効でない場合は、左下隅の位置情報と仮想位置に設定されている位置情報が同じになるまで何度も試してみます
 
-位置相同
+位置情報が同じ
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/locat-3.png)
 
-点击拍照考勤 你会看到出现了考勤完成这个界面 说明考勤成功
+写真を撮る勤怠情報をクリックすると、勤怠完了の画面が表示されます。勤怠情報が成功したことを示しています
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/t/okay.png)
 
