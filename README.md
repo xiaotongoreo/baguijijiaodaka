@@ -8,7 +8,6 @@ https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/Documents.docx
 
 チュートリアルファイルのダウンロード
 https://github.com/QinYuankidney/baguijijiaodaka/releases/tag/mumu-android-12-v2
-
 # [中国語]如何在八桂技教改定位打卡
 
 教程
