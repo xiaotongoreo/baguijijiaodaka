@@ -1,6 +1,6 @@
 # 八桂技教で位置を変更してカードを打つ方法
 
-文件下载
+ファイルのダウンロード
 https://github.com/QinYuankidney/baguijijiaodaka/releases/tag/mumu_android12
 
 携帯電話シミュレータのダウンロード
