@@ -1,7 +1,7 @@
 # 八桂技教で位置を変更してカードを打つ方法
 
 ファイルのダウンロード
-https://github.com/QinYuankidney/baguijijiaodaka/releases/tag/mumu_android12
+https://github.com/QinYuankidney/baguijijiaodaka/releases/tag/mumu-android-12-v2
 
 携帯電話シミュレータのダウンロード
 
