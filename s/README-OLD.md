@@ -23,14 +23,11 @@ https://github.com/QinYuankidney/baguijijiaodaka/releases/tag/mumu_android12
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/2024-01-03%20225952.png)
 
-解压文件
-![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/2024-01-03231942.png)
-
 点击导入并新建
 
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/2024-01-03%20230036.png)
 
-选择你解压文件的地方
+选择你的数据文件的地方
 ![image](https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/2024-01-03232125.png)
 
 导入完成 点击启动
