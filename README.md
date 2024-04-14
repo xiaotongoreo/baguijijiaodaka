@@ -12,7 +12,7 @@ https://github.com/QinYuankidney/baguijijiaodaka/releases/tag/mumu_android12
 # [中国語]如何在八桂技教改定位打卡
 
 教程
-https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/README-zh-cn.md
+https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/README-zh_cn.md
 
 教程word文档
 https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/Documents-zh-cn.docx
