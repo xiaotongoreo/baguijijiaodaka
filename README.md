@@ -1,10 +1,10 @@
 # バギ技術教育でポジショニングとパンチを変更する方法
 
-教程
+チュートリアル
 https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/README-OLD.md
 
-教程word文档
+チュートリアルのWord文書
 https://github.com/QinYuankidney/baguijijiaodaka/blob/main/s/Documents.docx
 
-文件下载
+チュートリアルファイルのダウンロード
 https://github.com/QinYuankidney/baguijijiaodaka/releases/tag/mumu_android12
