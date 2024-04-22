@@ -1,4 +1,4 @@
-# [中国語]如何在八桂技教改定位打卡
+# 如何在八桂技教改定位打卡
 
 教程
 https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/README-zh_cn.md
