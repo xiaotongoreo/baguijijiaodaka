@@ -1,13 +1,3 @@
-# バギ技術教育でポジショニングとパンチを変更する方法
-
-チュートリアル
-https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/README.md
-
-チュートリアルのWord文書
-https://github.com/xiaotongoreo/baguijijiaodaka/blob/main/s/Documents.docx
-
-チュートリアルファイルのダウンロード
-https://github.com/xiaotongoreo/baguijijiaodaka/releases/tag/mumu-android-12-v2
 # [中国語]如何在八桂技教改定位打卡
 
 教程
